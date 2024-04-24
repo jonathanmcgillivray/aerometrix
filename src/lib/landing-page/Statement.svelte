@@ -1,5 +1,5 @@
 <script>
-	export let image = '/aerometrix/background.jpg';
+	export let image = '/background.jpg';
 	export let title = 'Effortless Solar Energy Management: Simplifying Complexity, Amplifying Results';
 	export let subtitle = 'Elevate your energy generation capabilities with our cutting-edge solutions, designed to optimize performance, reduce emissions, and drive a sustainable future.';
 </script>

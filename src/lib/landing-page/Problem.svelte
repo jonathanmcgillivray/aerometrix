@@ -5,7 +5,7 @@
     <div class="w-[80%] mx-auto">
         <div class="flex justify-center items-center h-full text-white">
             <div class="w-[50%]">
-                <img src="/aerometrix/solar-walking.png" alt="Solar Panels" class="w-[400px] md:w-[600px]">
+                <img src="/solar-walking.png" alt="Solar Panels" class="w-[400px] md:w-[600px]">
             </div>
             <div class="w-[50%] px-10">
                 <h1 class="text-2xl md:text-4xl font-bold">The global need for clean, renewable energy is clear.</h1>

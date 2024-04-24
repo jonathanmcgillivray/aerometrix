@@ -12,7 +12,7 @@ const config = {
 		}),
         paths: {
             // Set the base path to your GitHub repository name
-            base: '/aerometrix'
+            base: ''
         },
 	},
 	preprocess: vitePreprocess()

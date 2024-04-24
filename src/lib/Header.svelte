@@ -8,8 +8,8 @@
             <ul class="flex items-center justify-center">
                 <li>
                     <div class="flex items-center justify-center ">
-                        <a href="/aerometrix">
-                            <img class="max-h-6 mb-3" src="/aerometrix/aerometrix_logo.png" alt="Aerometrix Logo" style="height: 50px;" />
+                        <a href="/">
+                            <img class="max-h-6 mb-3" src="/aerometrix_logo.png" alt="Aerometrix Logo" style="height: 50px;" />
                             <!-- Adjust height as needed -->
                         </a>
                     </div>
