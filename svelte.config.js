@@ -9,7 +9,10 @@ const config = {
 			pages: 'build',
 			assets: 'build',
 			fallback: null
-		})
+		}),
+		paths: {
+			base: '/aerometrix'
+		}
 	},
 	preprocess: vitePreprocess()
 };
