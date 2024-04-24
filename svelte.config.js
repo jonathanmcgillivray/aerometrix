@@ -11,7 +11,7 @@ const config = {
 			fallback: null
 		}),
 		paths: {
-			base: '/aerometrix'
+			base: process.argv.includes('dev') ? '' : process.env.BASE_PATH
 		}
 	},
 	preprocess: vitePreprocess()
