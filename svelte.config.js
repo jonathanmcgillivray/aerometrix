@@ -10,9 +10,10 @@ const config = {
 			assets: 'build',
 			fallback: null
 		}),
-		paths: {
-			base: process.argv.includes('dev') ? '' : process.env.BASE_PATH
-		}
+        paths: {
+            // Set the base path to your GitHub repository name
+            base: '/aerometrix'
+        },
 	},
 	preprocess: vitePreprocess()
 };
