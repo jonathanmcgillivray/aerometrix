@@ -10,6 +10,6 @@
 	<Statement />
     <Problem />
     <!-- <OurImpact /> -->
-	<WhatWeOffer />
+	<!-- <WhatWeOffer /> -->
 
 </main>

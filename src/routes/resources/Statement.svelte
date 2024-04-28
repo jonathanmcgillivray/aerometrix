@@ -1,11 +1,11 @@
 <script>
 	export let image = '/background.jpg';
-	export let title = 'Simplifying Complexity, Amplifying Results';
-	export let subtitle = 'Elevate your energy generation capabilities with our cutting-edge AI powered solutions, designed to optimize performance, reduce emissions, and drive a sustainable future.';
+	export let title = 'Effortless Solar Energy Management: Simplifying Complexity, Amplifying Results';
+	export let subtitle = 'Elevate your energy generation capabilities with our cutting-edge solutions, designed to optimize performance, reduce emissions, and drive a sustainable future.';
 </script>
 
-<div class="relative h-[80vh] bg-cover bg-top">
-    <div class="absolute inset-0 bg-top" style="background-image: url({image}); background-repeat: no-repeat; background-size: cover; background-position: center;"></div>
+<div class="relative h-[calc(100vh-5rem)] bg-cover bg-top">
+    <div class="absolute inset-0 bg-top" style="background-image: url({image}); background-repeat: no-repeat; background-size: cover;"></div>
 	<div
 		class="absolute inset-0"
 		style="background: linear-gradient(
