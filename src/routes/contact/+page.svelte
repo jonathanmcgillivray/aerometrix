@@ -9,7 +9,7 @@
 	<Statement
 		image = '/inverness.jpg'
 		title = "Get in touch with us!"
-		subtitle = "We're located in Inverness, Scotland, United Kingdom. Feel free to reach out to us with any questions or inquiries. We're here to help!"
+		subtitle = "We're located in Inverness, Scotland, United Kingdom. Feel free to reach out to us with any questions or enquiries. We're here to help!"
 	/>
 	
 	<div class="py-5">
@@ -36,7 +36,7 @@
 				</iframe>
 			</div> -->
 			<p class="text-1xl font-bold mt-10">
-				Email: hello@aerometrix.co <br>
+				Email: <a href="mailto:hello@aerometrix.co">hello@aerometrix.co</a> <br>
 				Phone: +44(0) 7917 493657
 			</p>
 		</div>

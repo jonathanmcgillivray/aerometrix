@@ -6,7 +6,7 @@
 <main>
 	<Statement
 	image = '/panel.jpg'
-	title = "Coming Sooon!"
+	title = "Coming Soon!"
 	subtitle = "Aerometrix Ltd is dedicated to empowering communities through renewable energy education and initiatives."
 />
 
